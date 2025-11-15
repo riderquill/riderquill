@@ -11,5 +11,5 @@
 </p>  
 
 <p align="center">
-  <a href="https://guns.lol/halbarry">guns.lol</a>
+  <a href="https://guns.lol/halbarry">gunspage</a>
   </p>
